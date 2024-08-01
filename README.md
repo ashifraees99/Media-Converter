@@ -37,4 +37,4 @@ Clone the repository to your local machine using the following command:
 ```bash
 git clone https://github.com/ashifraees99/Media-Converter.git
 ```
-## Please star this repository for future reference. Thank you.
+### Please star this repository for future reference. Thank you.
